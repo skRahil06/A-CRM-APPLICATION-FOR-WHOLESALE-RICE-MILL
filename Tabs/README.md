@@ -1,8 +1,8 @@
 Creating Supplier Tab
-![Screenshot 2024-06-28 202905](https://github.com/skRahil06/A-CRM-APPLICATION-FOR-WHOLESALE-RICE-MILL/assets/110285265/555256a0-395c-4bb4-a2f6-dc39452ed0d1)
+![Screenshot 2024-06-28 204010](https://github.com/skRahil06/A-CRM-APPLICATION-FOR-WHOLESALE-RICE-MILL/assets/110285265/61f91a18-f0e2-42ce-9b39-3a571ced22f2)
 
 
-Creating Rice Mill Tab
+Creating Rice Details Tab
 ![Screenshot 2024-06-28 203901](https://github.com/skRahil06/A-CRM-APPLICATION-FOR-WHOLESALE-RICE-MILL/assets/110285265/1e0f87b4-394a-4a98-9321-6d55aef79db9)
 
 
