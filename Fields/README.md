@@ -33,3 +33,5 @@ Creating Fields In Consumer Objects
 
 
 Creating The Validation Rule
+![Screenshot 2024-06-28 211925](https://github.com/skRahil06/A-CRM-APPLICATION-FOR-WHOLESALE-RICE-MILL/assets/110285265/1526c75c-ad61-45df-ae2f-afcde153556b)
+
